@@ -13,10 +13,10 @@
 <p>
 
 
-<b>Query loop<b>
+<b>Query loop<b><br>
 user &rarr; command line terminal &rarr; NodeJs backend 
 
-<b>Feedback loop</b>
+<b>Feedback loop</b><br>
 user &larr; command line terminal &larr; NodeJs backend 
 
 

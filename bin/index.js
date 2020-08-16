@@ -13,8 +13,7 @@ const boxen = require('boxen');
 const { program } = require('commander');
 program.version('0.0.1');
 
-
-let url = process.cwd() + '/cheapstocksinc/bin/Cheap.Stocks.Internationalization.Currencies.csv';
+let url = __dirname + '/Cheap.Stocks.Internationalization.Currencies.csv';
 
 //Asynchronous function for checking whether currency code exists in the created json array
 //async function compute(value, dummy) {
@@ -41,10 +40,6 @@ async function start(value, dummy) {
 
         });
 }
-
-//start();
-
-//}
 
 //Command line options
 program.option('-a')
@@ -76,5 +71,3 @@ else {
     console.log(boxen(chalk.green('WELCOME\n To get started type "cheap-stocks -h" in your terminal'),
         { padding: 1, margin: '5,0,0,0', borderStyle: 'single', borderColor: 'green', backgroundColor: 'black', align: 'center' }));
 }
-
-

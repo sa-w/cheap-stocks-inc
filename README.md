@@ -1,5 +1,5 @@
 <h1><b>WELCOME</b></h1>
-<p> A command line application for checking whether currency is supported</p>
+<p> A command line application for checking whether currency is supported, given input based on 1SO 4217 Code</p>
 <ul>
 <li><a href="#design">Design</a></li>
 <li><a href="#development">Development</a></li>

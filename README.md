@@ -26,7 +26,7 @@ user &larr; command line terminal &larr; NodeJs backend
 <h3 id="development"><b>Development</b></h3>
 <hr>
 <p>
-NodeJs was used for the backend
+NodeJs was used for the backend.
 Modules used include the following
 <ol>
 <li> Nodemon - Automatically restarts the NodeJs serever</li>

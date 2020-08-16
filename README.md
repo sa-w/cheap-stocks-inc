@@ -1,5 +1,5 @@
 <h1><b>WELCOME</b></h1>
-<p> A command line application for checking whether currency is supported</p>
+<p> A command line application for checking whether currency is supported, given input based on 1SO 4217 Code</p>
 <ul>
 <li><a href="#design">Design</a></li>
 <li><a href="#development">Development</a></li>
@@ -13,10 +13,10 @@
 <p>
 
 
-<b>Query loop<b>
+<b>Query loop<b><br>
 user &rarr; command line terminal &rarr; NodeJs backend 
 
-<b>Feedback loop</b>
+<b>Feedback loop</b><br>
 user &larr; command line terminal &larr; NodeJs backend 
 
 
@@ -26,7 +26,7 @@ user &larr; command line terminal &larr; NodeJs backend
 <h3 id="development"><b>Development</b></h3>
 <hr>
 <p>
-NodeJs was used for the backend
+NodeJs was used for the backend.
 Modules used include the following
 <ol>
 <li> Nodemon - Automatically restarts the NodeJs serever</li>
@@ -36,7 +36,7 @@ Modules used include the following
 <li>Boxen - Used for defining borders, alignment and padding within the command line </li>
 </ol>
 </p>
-<h3 id="installation"><b>Installation</b></h3>
+<h3 id="installation"><b>Installation (This app has been developed and tested on a machine that runs Microsoft Windows OS. Performance may differ in other OS) </b></h3>
 
 <hr>
 

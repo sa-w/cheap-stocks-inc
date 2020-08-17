@@ -45,13 +45,13 @@ Modules used include the following
 <ol>
 <li>Make sure you have NodeJs v12.18.3 installed in your device</li>
 <li>Clone this project into your machine</li>
-<li>From your command line terminal navigate to the folder holding this project i.e cheapstocksinc folder in windows OS cheap-stocks-inc folder in Linux Mint Cinnamon</li>
-<li>Run "npm install" command from your comand line terminal after following step 2. On a linux Mint Cinnamon run "sudo npm install"</li>
-<li>Run "npm install -g ." command from your comand line terminal after following step 3. On a linux Mint Cinnamon run "sudo npm install -g ."</li>
+<li>From your command line terminal navigate to the folder holding this project i.e cheapstocksinc folder in windows 10 OS or cheap-stocks-inc folder in Linux Mint Cinnamon</li>
+<li>Run "npm install" command from your comand line terminal after following step 2. On a linux Mint 19.1 Cinnamon run "sudo npm install"</li>
+<li>Run "npm install -g ." command from your comand line terminal after following step 3. On a linux Mint 19.1 Cinnamon run "sudo npm install -g ."</li>
 <li>Step 4 installs this application globally in your machine</li>
 <li>Open another command line terminal and type the command "cheap-stocks" to get started</li>
 <li>That's it. You can test this application against other ISO 4217 Code as shown in examples below </li>
-<li>To uninstall, run "npm uninstall -g cheapstocksinc" command from your command line terminal. On a linux distro run "sudo npm uninstall -g cheapstocksinc"</li>
+<li>To uninstall, run "npm uninstall -g cheapstocksinc" command from your command line terminal. On a linux Mint 19.1 Cinnamon run "sudo npm uninstall -g cheapstocksinc"</li>
 </ol>
 
 

@@ -43,7 +43,7 @@ Modules used include the following
 <p>To install please follow below steps
 
 <ol>
-<li>Make sure you have NodeJs v12 installed in your device</li>
+<li>Make sure you have NodeJs v12.18.3 installed in your device</li>
 <li>Clone this project into your machine</li>
 <li>From your command line terminal navigate to the folder holding this project i.e cheapstocksinc folder</li>
 <li>Run "npm install" command from your comand line terminal after following step 2</li>

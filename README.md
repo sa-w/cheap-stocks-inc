@@ -51,6 +51,7 @@ Modules used include the following
 <li>Step 4 installs this application globally in your machine</li>
 <li>Open another command line terminal and type the command "cheap-stocks" to get started</li>
 <li>That's it. </li>
+<li>To uninstall, run "npm uninstall -g cheapstocksinc" command from your command line terminal.</li>
 </ol>
 
 

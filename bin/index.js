@@ -16,13 +16,13 @@ program.version('0.0.1');
 let url = __dirname + '/Cheap.Stocks.Internationalization.Currencies.csv';
 
 //Asynchronous function for checking whether currency code exists in the created json array
-//async function compute(value, dummy) {
 
 async function start(value, dummy) {
     await csv()
         .fromFile(url)
         .then((jsonObj) => {
 
+        //Looping through json array
             for (i in jsonObj) {
                 if (value == jsonObj[i].ISO4217Code) {
 

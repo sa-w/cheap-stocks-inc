@@ -36,7 +36,7 @@ Modules used include the following
 <li>Boxen - Used for defining borders, alignment and padding within the command line </li>
 </ol>
 </p>
-<h3 id="installation"><b>Installation (This app has been developed and tested on a machine that runs Microsoft Windows OS and Linux Mint Cinnamon. Performance may differ in other OS) </b></h3>
+<h3 id="installation"><b>Installation (This app has been developed and tested on a machine that runs Microsoft Windows 10 OS and Linux Mint 19.1 Cinnamon. Performance may differ in other OS) </b></h3>
 
 <hr>
 
